@@ -1,16 +1,21 @@
+body {
+    background-color: rgb(212, 235, 235);
+}
+
 header {
     height: 10vh;
     background-color: #F54284;
 }
 
 .img {
-    height: 10vh;
     float: left;
+    width: 30vh;
+    height: 8vh;
+    padding: 1vh 10vh;
 }
 
 nav {
     text-align: center;
-    
 }
 
 nav ul a {
@@ -20,6 +25,14 @@ nav ul a {
     text-decoration: none;
     list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul {
+    margin: 0;
+}
+
+nav ul a:hover {
+    color: #BC42F5
 }
 
 main {
