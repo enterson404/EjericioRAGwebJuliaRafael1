@@ -1,0 +1,17 @@
+h1.letreros{
+    position: absolute;
+    top: 500%;
+    width: 100%;
+    text-align: center;
+    font-size: 200px;
+    
+  }
+  section.Letreros{
+      background-image: url(https://static.vecteezy.com/system/resources/previews/000/488/983/original/glowing-neon-signboard-open-vector-illustration.jpg);
+      background-size: 1000px;
+      height: 80vh;
+      width: auto;
+      background-repeat: no-repeat; 
+      background-position: center;
+      /* opacity: .5; */
+    }
